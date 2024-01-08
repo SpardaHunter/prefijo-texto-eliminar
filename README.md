@@ -1,3 +1,6 @@
+![imagen](https://github.com/SpardaHunter/prefijo-texto-eliminar/assets/155873668/566fc9b0-3716-4286-9dee-4846158b1cda)
+
+
 Select the folder to which you want the changes to be made
 
 Select an option:
