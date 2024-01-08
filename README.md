@@ -1,3 +1,14 @@
+Select the folder to which you want the changes to be made
+
+Select an option:
+
+1- Add a prefix to the files in the indicated folder
+2- Delete the text you indicate from the files in the indicated folder
+3- Write a text, if you find the indicated text in the file name, delete the file
+
+
+--
+
 Selecciona la carpeta a la cúal quieres que se realice los cambios
 
 Selecciona una opción:
